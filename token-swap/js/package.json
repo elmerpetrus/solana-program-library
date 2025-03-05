@@ -67,7 +67,7 @@
     "eslint": "^7.9.0",
     "eslint-plugin-import": "^2.22.0",
     "flow-bin": "0.137.0",
-    "flow-typed": "^3.2.0",
+    "flow-typed": "^4.0.0",
     "mz": "^2.7.0",
     "prettier": "^2.1.2",
     "rollup": "^2.27.1",
